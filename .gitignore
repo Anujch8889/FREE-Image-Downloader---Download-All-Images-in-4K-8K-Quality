@@ -1,0 +1,41 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore node modules if any
+node_modules/
+
+# Ignore build files
+dist/
+build/
+
+# Ignore logs
+*.log
+npm-debug.log*
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore OS generated files
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Keep these files
+!icons/
+!*.js
+!*.json
+!*.html
+!*.css
+!*.md
+!*.png
