@@ -1,0 +1,39 @@
+Image Downloader - High Quality
+
+Image Downloader is a simple Chrome extension that helps you find and download images from supported web pages in their highest available quality.
+
+The extension scans the current page and displays all detected images so you can preview them and download selected images or download everything at once.
+
+Key Features
+• Detects images available on a webpage, including responsive images
+• Supports common web image formats
+• Download images individually or in bulk
+• Automatically filters duplicate images
+• Saves files with clear and organized filenames
+• Lightweight and easy-to-use interface
+
+How It Works
+1. Open a webpage that contains images
+2. Click the extension icon in the Chrome toolbar
+3. Scan the page for images
+4. Preview detected images
+5. Download selected images or download all images at once
+
+Images are saved directly to your default Downloads folder.
+
+Privacy & Security
+• No data collection
+• No tracking or analytics
+• No external servers
+• All processing happens locally in your browser
+• The extension only runs when you activate it
+
+Permissions Explanation
+• Active Tab – Access the current webpage only when you click the extension
+• Downloads – Save image files to your device
+• Scripting – Scan page content for images
+• All URLs – Allows the extension to work on different websites when activated
+
+Compatibility
+This extension works on many public websites that allow image access.
+Image availability depends on the website’s structure and permission.
